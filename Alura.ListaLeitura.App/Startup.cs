@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Alura.ListaLeitura.App
 {
-    internal class Startup
+    public class Startup
     {
         public void Configure(IApplicationBuilder app)
         {
